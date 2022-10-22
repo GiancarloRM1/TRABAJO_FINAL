@@ -1,2 +1,0 @@
-# PRUEBA_DISE-O
-UTP
